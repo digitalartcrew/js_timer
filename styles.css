@@ -1,0 +1,13 @@
+body {
+	font-family: sans-serif;
+	color: cornflowerblue;
+}
+
+#container {
+	width: 300px;
+	margin: auto;
+}
+
+h1 {
+	font-size: 8em;
+}
